@@ -6,7 +6,6 @@ Input link - https://drive.google.com/file/d/1rqnKe9IgU_crMaxRoel9_nuUsMEBBVQu/v
 ## Results:
 OUTPUT - https://drive.google.com/drive/folders/1UkLNH1VVUUYqYOEcstlH1QHKjias8QoT
 DETECTION + TRACKING FPS - 14-17 FPS for online detection and tracking on T4 Collab GPU, and 25-27 FPS for offline detection and tracking due to batch processing
-Model size - 6 MB
 
 METRICS for detection and tracking -
 
@@ -14,6 +13,8 @@ MOTA - 45 %
 IDF1 - 62 %
 Prcn - 80 %
 Rcll - 60 %
+
+Model size - 6 MB
 
 ## Instructions:
 
