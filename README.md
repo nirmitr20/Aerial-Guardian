@@ -25,7 +25,8 @@ git clone https://github.com/ifzhang/ByteTrack.git
 ### Install requirements
 pip install torch torchvision opencv-python numpy pandas matplotlib thop
 
-### Open main.py and set up your input paths, ground truth paths and model ckpt to mathc your setup and run python main.py
+### Setup and runnning
+Open main.py and set up your input paths, ground truth paths and model ckpt to mathc your setup and run python main.py
 
 ## Summary
 
