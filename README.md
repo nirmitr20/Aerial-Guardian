@@ -15,8 +15,11 @@ https://drive.google.com/drive/folders/1UkLNH1VVUUYqYOEcstlH1QHKjias8QoT
 ### METRICS for detection and tracking -
 
 MOTA - 45 %
+
 IDF1 - 62 %
+
 Prcn - 80 %
+
 Rcll - 60 %
 
 Model size - 6 MB
