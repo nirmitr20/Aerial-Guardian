@@ -18,9 +18,9 @@ MOTA - 45 %
 
 IDF1 - 62 %
 
-Prcn - 80 %
+Precision - 80 %
 
-Rcll - 60 %
+Recll - 60 %
 
 Model size - 6 MB
 
